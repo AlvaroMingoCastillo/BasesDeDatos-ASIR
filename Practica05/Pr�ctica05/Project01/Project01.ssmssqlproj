@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Project01">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="(local):LAPTOP-4SKC3DCJ\alvar">
+          <Created>2023-12-20T16:13:15.618464+01:00</Created>
+          <Type>SQL</Type>
+          <Server>(local)</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="01CreaBBDD.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local):True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>01CreaBBDD.sql</FullPath>
+        </FileNode>
+        <FileNode Name="02CreaTablas.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local):True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>02CreaTablas.sql</FullPath>
+        </FileNode>
+        <FileNode Name="03InsertaDatos.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local):True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>03InsertaDatos.sql</FullPath>
+        </FileNode>
+        <FileNode Name="04ListaDatos.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local):True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>04ListaDatos.sql</FullPath>
+        </FileNode>
+        <FileNode Name="05Modificaciones.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local):True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>05Modificaciones.sql</FullPath>
+        </FileNode>
+        <FileNode Name="060EliminaBBDD.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local):True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>060EliminaBBDD.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
